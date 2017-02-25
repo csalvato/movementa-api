@@ -1,7 +1,10 @@
-# README
+# Movementa
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running.  
+
+But right now it doesn't cover anything, because
+this project is new!
 
 Things you may want to cover:
 
